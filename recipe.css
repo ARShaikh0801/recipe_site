@@ -103,7 +103,7 @@ div.col h2{
 div.column1{
     display: inline-block;
     margin-right: 10%;
-
+    margin-bottom: 20px;
 }
 div.column2{
     float: right;
